@@ -1,1 +1,3 @@
-# maze_generator
+# Maze generation with Processing
+
+foo
